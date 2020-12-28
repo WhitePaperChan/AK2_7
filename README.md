@@ -13,4 +13,4 @@
 
 Зображення у репозиторії:
  * basic1_1, basic1_2, basic1_3 - демонстрація аварії та пошуку її місця (Basic 1)
- * basic2_1, basic2_2, basic2_3, basic2_4 - друк з прапорцями p, f, m
+ * basic2_1, basic2_2, basic2_3, basic2_4, basic2_5 - друк з прапорцями p, f, m
